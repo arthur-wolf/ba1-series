@@ -7,4 +7,4 @@ This repository consists of many programming exercises I have written during my 
 
 ## Author
 
-- [@Arthur Wolf](https://www.github.com/arthur-wolf)
+____[@Arthur Wolf](https://www.github.com/arthur-wolf)
