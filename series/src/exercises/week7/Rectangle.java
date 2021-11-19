@@ -1,6 +1,6 @@
 package exercises.week7;
 
-/* Dans ce programme, les 2 réctangles sont encapsulés dans un objet
+/* Dans ce programme, les 2 rectangles sont encapsulés dans un objet
  * de type Terrain qui s'occupe de calculer et d'afficher la surface
  * totale. Le mot-clé private a été utilisé le plus possible dans
  * toutes les classes. La classe Rectangle met aussi à disposition des
@@ -8,8 +8,6 @@ package exercises.week7;
  * le programmeur de la classe peut offrir à ses utilisateurs s'il le
  * juge utile).
  */
-
-import org.w3c.dom.css.Rect;
 
 class Surfaces {
 
